@@ -16,12 +16,12 @@ Bytecraft IT Solutions LLP is a software consultancy registered in India (LLPIN:
 
 ## Tech stack
 
-**Languages:** TypeScript, JavaScript, Python, Rust, C#
-**Frontend & Mobile:** React, React Native, Next.js, Tailwind CSS, TanStack Start
-**Backend:** Node.js, Bun, NestJS, Hono, FastAPI, Django, .NET, GraphQL
-**Data:** PostgreSQL, MySQL, MongoDB, Redis, pgvector, Pinecone
-**Infra:** Docker, Kubernetes, AWS, GCP, Azure
-**AI/ML:** LangChain, MCP, RAG, Embeddings
+- **Languages:** TypeScript, JavaScript, Python, Rust, C#
+- **Frontend & Mobile:** React, React Native, Next.js, Tailwind CSS, TanStack Start
+- **Backend:** Node.js, Bun, NestJS, Hono, FastAPI, Django, .NET, GraphQL
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis, pgvector, Pinecone
+- **Infra:** Docker, Kubernetes, AWS, GCP, Azure
+- **AI/ML:** LangChain, MCP, RAG, Embeddings
 
 ## Contact
 
